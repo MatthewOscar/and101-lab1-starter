@@ -1,14 +1,14 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 1 - Hello, Squirrel!
+# AND101 Lab 1 - Android Treasure Hunt!
 
-Submitted by: **Your Name Here**
+Submitted by: **Matthew Wyatt**
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Android Treasure Hunt!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -18,18 +18,21 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Change profile name to your name
-- [ ] Change profile bio text to a personal bio about yourself
-- [ ] Modify hobby section to include your top three (3) hobbies
+- [x] Clue #0: J
+- [x] Clue #1: E
+- [x] Clue #2: T
+- [x] Clue #3: P
+- [x] Clue #4: A
+- [x] Clue #5: C
+- [x] Clue #6: K
 
 The following STRETCH features are implemented:
 
-- [ ] Re-brand the app by modifying the UI
-- [ ] Modify the profile image by uploading a new image drawable
+- [x] Bonus: Easter Egg: [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ)
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -50,16 +53,16 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+    Copyright **2025** **Matthew Wyatt**
+    
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+        http://www.apache.org/licenses/LICENSE-2.0
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
