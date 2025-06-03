@@ -49,7 +49,7 @@ GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
 ## Notes
 
-The treasure hunt leads to a JETPACK while the bonus easter egg leads to a music video (RICK ROLL).
+The treasure hunt leads to a **JETPACK** while the bonus easter egg leads to a **music video** (RICK ROLL).
 
 ## License
 
