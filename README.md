@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Lab 1 - Android Treasure Hunt!
+# AND101 Lab 1 - Android Treasure Hunt 🏴‍☠️!
 
 Submitted by: **Matthew Wyatt**
 
@@ -8,9 +8,9 @@ Time spent: **1.5** hours spent in total
 
 ## Summary
 
-**Android Treasure Hunt!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.
+**Android Treasure Hunt!** is an android app that recreates the common "Hello, World!". Find clues disguised as characters in surrounding brackets [Char] and unscramble the word to locate the treasure.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🏴‍☠️🗺️🏆**
 
 ## Application Features
 
@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='MWyatt_Lab1.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -49,11 +49,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+The treasure hunt leads to a JETPACK while the bonus easter egg leads to a music video (RICK ROLL).
 
 ## License
 
-    Copyright **2025** **Matthew Wyatt**
+    Copyright 2025 Matthew Wyatt
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
